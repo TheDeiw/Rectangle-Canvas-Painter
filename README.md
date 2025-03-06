@@ -15,3 +15,4 @@ This [website](https://thedeiw.github.io/Rectangle-Canvas-Painter/) is a tool fo
 Created as part of a lab assignment for the "Computer Graphics" course, this project assists students in understanding the principles of working with graphical objects, coordinate systems, and their visualization through programming.
 
 ## Результат виконання / Execution result
+![screencapture-127-0-0-1-5500-index-html-2025-03-07-00_39_29](https://github.com/user-attachments/assets/e270828c-e462-4be2-8346-a153e780b2d9)
